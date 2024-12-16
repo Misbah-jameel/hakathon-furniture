@@ -34,7 +34,7 @@ const Cards = () => {
     {
       title: "Office",
       description: "Create a productive workspace with our stylish office furniture.",
-      image: "/images.png",
+      image: "/9.png",
       price: "$200",
       offerPrice: "$180",
       label: "New",
