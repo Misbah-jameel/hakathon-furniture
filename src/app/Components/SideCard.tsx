@@ -22,7 +22,7 @@ const SideCard = () => {
       <div className="flex gap-4">
         <div className="flex-1 w-full">
           <Image
-            src="/image.png"
+            src="/5.png"
             alt="Image 1"
             layout="responsive"
             width={500}
